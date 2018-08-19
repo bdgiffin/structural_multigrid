@@ -1,1 +1,2 @@
-# structural_multigrid
+# Structural Multigrid
+## - an experimental structural mechanics code -
